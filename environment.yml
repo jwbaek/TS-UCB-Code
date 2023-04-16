@@ -1,0 +1,8 @@
+name: snakemake
+channels:
+  - conda-forge
+dependencies:
+  - snakemake
+  - click
+  - scikit-learn
+prefix: /Users/jackiebaek/mambaforge/envs/snakemake

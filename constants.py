@@ -1,0 +1,3 @@
+
+EPS = 1E-6
+NUM_SAMPLES = 200
